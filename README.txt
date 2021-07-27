@@ -1,3 +1,5 @@
+lineprint
+
 lineprint is about 10 - 20 times faster
 
 gcc lineprint.c -o lineprint
